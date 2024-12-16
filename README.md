@@ -11,7 +11,7 @@
 - 🚀 Open to **freelance/part-time projects**. Let's connect!  
 
 📫 **Email**: [abhinavsingwal@gmail.com](mailto:abhinavsingwal@gmail.com)  
-💼 **LinkedIn**: [Abhinav Singwal](https://www.linkedin.com/in/abhinavsingwal)  
+💼 **LinkedIn**: [Abhinav Singwal](https://www.linkedin.com/in/bug-bounty-hunter/)  
 
 ---
 
@@ -47,6 +47,12 @@
 
 ---
 
+## Support & Contact 📬  
+- **LinkedIn Profile:** [Bug Bounty Hunter](https://www.linkedin.com/in/bug-bounty-hunter/)  
+- **Donations:** If you find this cheat sheet useful, consider supporting my work via [BuyMeACoffee](https://buymeacoffee.com/abhinavsingwal).  
+- **Email:** For inquiries, you can reach me at [abhinavsingwal@gmail.com](mailto:abhinavsingwal@gmail.com).
+  
+---
 ## 📈 My GitHub Stats  
 ![hacker01x's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker01x&show_icons=true&theme=radical)  
 
